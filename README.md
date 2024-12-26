@@ -41,8 +41,8 @@ Activate the virtual environment:
 source llm_venv/bin/activate
 ```
 
-Download required dependencies:
-```
+Download necessary dependencies.
+```bash
 pip install -r requirements.txt
 ```
 
